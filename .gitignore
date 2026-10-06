@@ -12,7 +12,6 @@ pages
 kj-wiktwords.sh
 tmp/
 .venv/
-.vscode/
 p
 pages/
 bacpages/
@@ -28,3 +27,5 @@ _site
 
 # Emacs files
 *~
+config.bat
+node_modules
