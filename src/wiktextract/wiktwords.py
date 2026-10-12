@@ -8,6 +8,7 @@
 #
 # For pre-extracted data files, see https://kaikki.org/dictionary/
 
+import utils.session
 import argparse
 import collections
 import json
